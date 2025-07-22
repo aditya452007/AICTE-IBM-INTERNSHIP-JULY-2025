@@ -12,19 +12,19 @@ We checked for missing values in the dataset and removed rows with missing data,
 
 
 ### Top 10 Highest Earning Professions
-![Gender Distribution](images/Top10.png)
+![Gender Distribution](Images/Top10.png)
 *A Bar plot depicting the highest paying job titles versus the mean salary.*
 
 ### Distribution of Continuous Variables
-![Age Distribution](images/Distribution.png)
+![Age Distribution](Images/Distribution.png)
 *This histogram shows the distribution of continuous variables in the dataset.*
 
 ### Distribution of Education and Gender
-![Salary vs. Education](images/ed&gender_distribution.png)
+![Salary vs. Education](Images/ed&gender_distribution.png)
 *A plot displaying the Education Level and Gender.*
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/Heatmap.png)
+![Correlation Heatmap](Images/Correlation.png)
 *A heatmap illustrating the correlation between different features.*
 
 ## Model Building and Evaluation
