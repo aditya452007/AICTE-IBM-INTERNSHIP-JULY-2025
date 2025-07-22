@@ -37,7 +37,7 @@ We explored various machine learning algorithms, including Linear Regression, De
 Each model's performance was evaluated using several regression metrics, including Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared (R2) score. These metrics help assess the accuracy and reliability of the predictions.
 
 ### Feature Importance
-![Feature Importance](images/Feature_Imp.png)
+![Feature Importance](Images/Feature_Imp.png)
 *A bar chart depicting the importance of different features in predicting salary.*
 
 ## Results
